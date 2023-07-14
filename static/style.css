@@ -1,0 +1,22 @@
+.cont{
+    width: 1350px;
+    height: 60px;
+    background: rgb(142, 216, 100);
+    
+
+
+}
+.cant{
+    width: 1350px;
+    height: 505px;
+    background: rgb(100, 172, 177);
+    background-image: linear-gradient(to top, rgb(12, 193, 190) 50%,rgba(232, 232, 119, 0.708));
+}
+#gg{
+    width: 1350px;
+    height: 50px;
+    background:rgb(226, 223, 143) ;
+}
+.same{
+    text-decoration:none;
+}
